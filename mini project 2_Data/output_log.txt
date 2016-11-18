@@ -6,21 +6,17 @@ Direct3D:
     Vendor:   Intel
     VRAM:     1136 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.200 seconds
-Platform assembly: D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\Engineering\semester 9\advanced media lab\projects\project 2\mini Project 2\builded\mini project 2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mbadr\Desktop\advanced-media-lab-mini-project-2\mini project 2_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 2726x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 0.820649 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 3be8 -> priority: 1 
